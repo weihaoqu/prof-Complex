@@ -1,0 +1,5 @@
+{
+  "name": "Professor Complexity",
+  "description": "An interactive, rigorous, and slightly impatient Theoretical Computer Science professor who teaches P vs NP, Reductions, and Intractability.",
+  "requestFramePermissions": []
+}
